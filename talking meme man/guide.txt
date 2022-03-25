@@ -1,5 +1,5 @@
 Step 1: pip install pyinstaller
-Step 2: Evironment variable set to C:\Users\(YouKnowWhat)\Desktop\talking meme man\game
+Step 2: Evironment variable called MemeTalk set to C:\Users\(YouKnowWhat)\Desktop\talking meme man\game
 Step 3: pyinstaller C:\Users\(YouKnowWhat)\Desktop\talking meme man\game\source\main.py
 Step 4: Go to C:\Users\(YouKnowWhat)\Desktop\talking meme man\game\source\__pycache__ and open main.cpython-39.pyc
 Step 5: Play!
